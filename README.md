@@ -12,13 +12,13 @@ I input the data in this project from Google Sheets. In these sheets, data have 
 - 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐞𝐭𝐫𝐢𝐜𝐬: Product, Category, Cost Per Unit, Selling Price/Unit, Quantity, Cost and Sales Amount.
 
 ## 🚀𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
--🎯 𝐓𝐨𝐩-𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: Sneakers owned the sales space- about 45% of total revenue.
+- 🎯 𝐓𝐨𝐩-𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: Sneakers owned the sales space- about 45% of total revenue.
 
--🎯 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: California topped the charts with about 30.4% of total sales.
+- 🎯 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: California topped the charts with about 30.4% of total sales.
 
--🎯 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬: In-store orders made up 51% of sales.
+- 🎯 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬: In-store orders made up 51% of sales.
 
--🎯 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲: Lifestyle apparel had the highest profit margin at 44.7%. 
+- 🎯 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲: Lifestyle apparel had the highest profit margin at 44.7%. 
 
 ## 𝐖𝐡𝐲 𝐈𝐭 𝐌𝐚𝐭𝐭𝐞𝐫𝐬
 These insights aren’t just numbers—they’re interactive and actionable strategies for optimizing inventory, targeting high-performing regions, and boosting profitability.
@@ -29,4 +29,4 @@ I transformed raw data into interactive dashboards using Google Looker Studio, m
 
 
 ## Author
--Monjur Rahman[https://www.linkedin.com/in/monjur-rahman77/]
+- [Monjur Rahman](https://www.linkedin.com/in/monjur-rahman77/)
