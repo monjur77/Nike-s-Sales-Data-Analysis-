@@ -29,4 +29,4 @@ I transformed raw data into interactive dashboards using Google Looker Studio, m
 
 
 ## Author
-- [Monjur Rahman](https://www.linkedin.com/in/monjur-rahman77/)
+- LinkedIn: [Monjur Rahman](https://www.linkedin.com/in/monjur-rahman77/)
